@@ -5,31 +5,34 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 1 |
+| Problems solved | 2 |
 | Active days | 1 |
 | Last updated | 2026-10-02 |
 
 ## Difficulty-wise progress
 | Difficulty | Solved | Progress |
 |---|---|---|
-| 🟢 Easy | 1 / 880 | 0.1% |
+| 🟢 Easy | 2 / 880 | 0.2% |
 | 🟡 Medium | 0 / 1850 | 0.0% |
 | 🔴 Hard | 0 / 830 | 0.0% |
 
 ## Topic-wise progress
 | Topic | Solved |
 |---|---|
+| dynamic-programming | 1 |
 | math | 1 |
 
 ## Recent activity
 | Date | Problem | Topic | Difficulty |
 |---|---|---|---|
+| 2026-04-19 | [509. Fibonacci Number](./dynamic-programming/509-fibonacci-number/) | dynamic-programming | 🟢 Easy |
 | 2026-04-19 | [9. Palindrome Number](./math/9-palindrome-number/) | math | 🟢 Easy |
 
 ## All problems
 | # | Problem | Topic | Difficulty | LeetCode |
 |---|---|---|---|---|
 | 9 | [Palindrome Number](./math/9-palindrome-number/) | math | 🟢 Easy | [link](https://leetcode.com/problems/palindrome-number/) |
+| 509 | [Fibonacci Number](./dynamic-programming/509-fibonacci-number/) | dynamic-programming | 🟢 Easy | [link](https://leetcode.com/problems/fibonacci-number/) |
 
 ## Adding a problem
 ```bash
