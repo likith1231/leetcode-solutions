@@ -5,28 +5,31 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 0 |
-| Active days | 0 |
+| Problems solved | 1 |
+| Active days | 1 |
 | Last updated | 2026-10-02 |
 
 ## Difficulty-wise progress
 | Difficulty | Solved | Progress |
 |---|---|---|
-| 🟢 Easy | 0 / 880 | 0.0% |
+| 🟢 Easy | 1 / 880 | 0.1% |
 | 🟡 Medium | 0 / 1850 | 0.0% |
 | 🔴 Hard | 0 / 830 | 0.0% |
 
 ## Topic-wise progress
 | Topic | Solved |
 |---|---|
+| math | 1 |
 
 ## Recent activity
 | Date | Problem | Topic | Difficulty |
 |---|---|---|---|
+| 2026-04-19 | [9. Palindrome Number](./math/9-palindrome-number/) | math | 🟢 Easy |
 
 ## All problems
 | # | Problem | Topic | Difficulty | LeetCode |
 |---|---|---|---|---|
+| 9 | [Palindrome Number](./math/9-palindrome-number/) | math | 🟢 Easy | [link](https://leetcode.com/problems/palindrome-number/) |
 
 ## Adding a problem
 ```bash
