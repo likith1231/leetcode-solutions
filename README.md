@@ -5,21 +5,21 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 9 |
+| Problems solved | 10 |
 | Active days | 2 |
 | Last updated | 2026-10-02 |
 
 ## Difficulty-wise progress
 | Difficulty | Solved | Progress |
 |---|---|---|
-| 🟢 Easy | 6 / 880 | 0.7% |
+| 🟢 Easy | 7 / 880 | 0.8% |
 | 🟡 Medium | 2 / 1850 | 0.1% |
 | 🔴 Hard | 1 / 830 | 0.1% |
 
 ## Topic-wise progress
 | Topic | Solved |
 |---|---|
-| math | 2 |
+| math | 3 |
 | two-pointers | 2 |
 | binary-search | 1 |
 | dynamic-programming | 1 |
@@ -30,6 +30,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Recent activity
 | Date | Problem | Topic | Difficulty |
 |---|---|---|---|
+| 2026-07-20 | [202. Happy Number](./math/202-happy-number/) | math | 🟢 Easy |
 | 2026-07-20 | [27. Remove Element](./two-pointers/27-remove-element/) | two-pointers | 🟢 Easy |
 | 2026-07-20 | [26. Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy |
 | 2026-07-20 | [14. Longest Common Prefix](./string/14-longest-common-prefix/) | string | 🟢 Easy |
@@ -51,6 +52,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 14 | [Longest Common Prefix](./string/14-longest-common-prefix/) | string | 🟢 Easy | [link](https://leetcode.com/problems/longest-common-prefix/) |
 | 26 | [Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 27 | [Remove Element](./two-pointers/27-remove-element/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-element/) |
+| 202 | [Happy Number](./math/202-happy-number/) | math | 🟢 Easy | [link](https://leetcode.com/problems/happy-number/) |
 | 509 | [Fibonacci Number](./dynamic-programming/509-fibonacci-number/) | dynamic-programming | 🟢 Easy | [link](https://leetcode.com/problems/fibonacci-number/) |
 
 ## Adding a problem
