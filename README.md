@@ -5,7 +5,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 5 |
+| Problems solved | 6 |
 | Active days | 2 |
 | Last updated | 2026-10-02 |
 
@@ -13,21 +13,22 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | Difficulty | Solved | Progress |
 |---|---|---|
 | 🟢 Easy | 3 / 880 | 0.3% |
-| 🟡 Medium | 1 / 1850 | 0.1% |
+| 🟡 Medium | 2 / 1850 | 0.1% |
 | 🔴 Hard | 1 / 830 | 0.1% |
 
 ## Topic-wise progress
 | Topic | Solved |
 |---|---|
+| math | 2 |
 | binary-search | 1 |
 | dynamic-programming | 1 |
 | hashing | 1 |
-| math | 1 |
 | sliding-window | 1 |
 
 ## Recent activity
 | Date | Problem | Topic | Difficulty |
 |---|---|---|---|
+| 2026-07-20 | [7. Reverse Integer](./math/7-reverse-integer/) | math | 🟡 Medium |
 | 2026-07-20 | [4. Median of Two Sorted Arrays](./binary-search/4-median-of-two-sorted-arrays/) | binary-search | 🔴 Hard |
 | 2026-07-20 | [3. Longest Substring Without Repeating Characters](./sliding-window/3-longest-substring-without-repeating-characters/) | sliding-window | 🟡 Medium |
 | 2026-07-20 | [1. Two Sum](./hashing/1-two-sum/) | hashing | 🟢 Easy |
@@ -40,6 +41,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 1 | [Two Sum](./hashing/1-two-sum/) | hashing | 🟢 Easy | [link](https://leetcode.com/problems/two-sum/) |
 | 3 | [Longest Substring Without Repeating Characters](./sliding-window/3-longest-substring-without-repeating-characters/) | sliding-window | 🟡 Medium | [link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 4 | [Median of Two Sorted Arrays](./binary-search/4-median-of-two-sorted-arrays/) | binary-search | 🔴 Hard | [link](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
+| 7 | [Reverse Integer](./math/7-reverse-integer/) | math | 🟡 Medium | [link](https://leetcode.com/problems/reverse-integer/) |
 | 9 | [Palindrome Number](./math/9-palindrome-number/) | math | 🟢 Easy | [link](https://leetcode.com/problems/palindrome-number/) |
 | 509 | [Fibonacci Number](./dynamic-programming/509-fibonacci-number/) | dynamic-programming | 🟢 Easy | [link](https://leetcode.com/problems/fibonacci-number/) |
 
