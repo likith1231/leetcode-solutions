@@ -5,14 +5,14 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 8 |
+| Problems solved | 9 |
 | Active days | 2 |
 | Last updated | 2026-10-02 |
 
 ## Difficulty-wise progress
 | Difficulty | Solved | Progress |
 |---|---|---|
-| 🟢 Easy | 5 / 880 | 0.6% |
+| 🟢 Easy | 6 / 880 | 0.7% |
 | 🟡 Medium | 2 / 1850 | 0.1% |
 | 🔴 Hard | 1 / 830 | 0.1% |
 
@@ -20,16 +20,17 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | Topic | Solved |
 |---|---|
 | math | 2 |
+| two-pointers | 2 |
 | binary-search | 1 |
 | dynamic-programming | 1 |
 | hashing | 1 |
 | sliding-window | 1 |
 | string | 1 |
-| two-pointers | 1 |
 
 ## Recent activity
 | Date | Problem | Topic | Difficulty |
 |---|---|---|---|
+| 2026-07-20 | [27. Remove Element](./two-pointers/27-remove-element/) | two-pointers | 🟢 Easy |
 | 2026-07-20 | [26. Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy |
 | 2026-07-20 | [14. Longest Common Prefix](./string/14-longest-common-prefix/) | string | 🟢 Easy |
 | 2026-07-20 | [7. Reverse Integer](./math/7-reverse-integer/) | math | 🟡 Medium |
@@ -49,6 +50,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 9 | [Palindrome Number](./math/9-palindrome-number/) | math | 🟢 Easy | [link](https://leetcode.com/problems/palindrome-number/) |
 | 14 | [Longest Common Prefix](./string/14-longest-common-prefix/) | string | 🟢 Easy | [link](https://leetcode.com/problems/longest-common-prefix/) |
 | 26 | [Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 27 | [Remove Element](./two-pointers/27-remove-element/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-element/) |
 | 509 | [Fibonacci Number](./dynamic-programming/509-fibonacci-number/) | dynamic-programming | 🟢 Easy | [link](https://leetcode.com/problems/fibonacci-number/) |
 
 ## Adding a problem
