@@ -5,7 +5,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 3 |
+| Problems solved | 4 |
 | Active days | 2 |
 | Last updated | 2026-10-02 |
 
@@ -13,7 +13,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | Difficulty | Solved | Progress |
 |---|---|---|
 | 🟢 Easy | 3 / 880 | 0.3% |
-| 🟡 Medium | 0 / 1850 | 0.0% |
+| 🟡 Medium | 1 / 1850 | 0.1% |
 | 🔴 Hard | 0 / 830 | 0.0% |
 
 ## Topic-wise progress
@@ -22,10 +22,12 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | dynamic-programming | 1 |
 | hashing | 1 |
 | math | 1 |
+| sliding-window | 1 |
 
 ## Recent activity
 | Date | Problem | Topic | Difficulty |
 |---|---|---|---|
+| 2026-07-20 | [3. Longest Substring Without Repeating Characters](./sliding-window/3-longest-substring-without-repeating-characters/) | sliding-window | 🟡 Medium |
 | 2026-07-20 | [1. Two Sum](./hashing/1-two-sum/) | hashing | 🟢 Easy |
 | 2026-04-19 | [509. Fibonacci Number](./dynamic-programming/509-fibonacci-number/) | dynamic-programming | 🟢 Easy |
 | 2026-04-19 | [9. Palindrome Number](./math/9-palindrome-number/) | math | 🟢 Easy |
@@ -34,6 +36,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | # | Problem | Topic | Difficulty | LeetCode |
 |---|---|---|---|---|
 | 1 | [Two Sum](./hashing/1-two-sum/) | hashing | 🟢 Easy | [link](https://leetcode.com/problems/two-sum/) |
+| 3 | [Longest Substring Without Repeating Characters](./sliding-window/3-longest-substring-without-repeating-characters/) | sliding-window | 🟡 Medium | [link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 9 | [Palindrome Number](./math/9-palindrome-number/) | math | 🟢 Easy | [link](https://leetcode.com/problems/palindrome-number/) |
 | 509 | [Fibonacci Number](./dynamic-programming/509-fibonacci-number/) | dynamic-programming | 🟢 Easy | [link](https://leetcode.com/problems/fibonacci-number/) |
 
