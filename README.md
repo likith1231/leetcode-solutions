@@ -5,14 +5,14 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 7 |
+| Problems solved | 8 |
 | Active days | 2 |
 | Last updated | 2026-10-02 |
 
 ## Difficulty-wise progress
 | Difficulty | Solved | Progress |
 |---|---|---|
-| 🟢 Easy | 4 / 880 | 0.5% |
+| 🟢 Easy | 5 / 880 | 0.6% |
 | 🟡 Medium | 2 / 1850 | 0.1% |
 | 🔴 Hard | 1 / 830 | 0.1% |
 
@@ -25,10 +25,12 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | hashing | 1 |
 | sliding-window | 1 |
 | string | 1 |
+| two-pointers | 1 |
 
 ## Recent activity
 | Date | Problem | Topic | Difficulty |
 |---|---|---|---|
+| 2026-07-20 | [26. Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy |
 | 2026-07-20 | [14. Longest Common Prefix](./string/14-longest-common-prefix/) | string | 🟢 Easy |
 | 2026-07-20 | [7. Reverse Integer](./math/7-reverse-integer/) | math | 🟡 Medium |
 | 2026-07-20 | [4. Median of Two Sorted Arrays](./binary-search/4-median-of-two-sorted-arrays/) | binary-search | 🔴 Hard |
@@ -46,6 +48,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 7 | [Reverse Integer](./math/7-reverse-integer/) | math | 🟡 Medium | [link](https://leetcode.com/problems/reverse-integer/) |
 | 9 | [Palindrome Number](./math/9-palindrome-number/) | math | 🟢 Easy | [link](https://leetcode.com/problems/palindrome-number/) |
 | 14 | [Longest Common Prefix](./string/14-longest-common-prefix/) | string | 🟢 Easy | [link](https://leetcode.com/problems/longest-common-prefix/) |
+| 26 | [Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 509 | [Fibonacci Number](./dynamic-programming/509-fibonacci-number/) | dynamic-programming | 🟢 Easy | [link](https://leetcode.com/problems/fibonacci-number/) |
 
 ## Adding a problem
