@@ -5,14 +5,14 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 10 |
-| Active days | 2 |
+| Problems solved | 11 |
+| Active days | 3 |
 | Last updated | 2026-10-02 |
 
 ## Difficulty-wise progress
 | Difficulty | Solved | Progress |
 |---|---|---|
-| 🟢 Easy | 7 / 880 | 0.8% |
+| 🟢 Easy | 8 / 880 | 0.9% |
 | 🟡 Medium | 2 / 1850 | 0.1% |
 | 🔴 Hard | 1 / 830 | 0.1% |
 
@@ -20,7 +20,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | Topic | Solved |
 |---|---|
 | math | 3 |
-| two-pointers | 2 |
+| two-pointers | 3 |
 | binary-search | 1 |
 | dynamic-programming | 1 |
 | hashing | 1 |
@@ -30,6 +30,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Recent activity
 | Date | Problem | Topic | Difficulty |
 |---|---|---|---|
+| 2026-07-22 | [88. Merge Sorted Array](./two-pointers/88-merge-sorted-array/) | two-pointers | 🟢 Easy |
 | 2026-07-20 | [202. Happy Number](./math/202-happy-number/) | math | 🟢 Easy |
 | 2026-07-20 | [27. Remove Element](./two-pointers/27-remove-element/) | two-pointers | 🟢 Easy |
 | 2026-07-20 | [26. Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy |
@@ -39,7 +40,6 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 2026-07-20 | [3. Longest Substring Without Repeating Characters](./sliding-window/3-longest-substring-without-repeating-characters/) | sliding-window | 🟡 Medium |
 | 2026-07-20 | [1. Two Sum](./hashing/1-two-sum/) | hashing | 🟢 Easy |
 | 2026-04-19 | [509. Fibonacci Number](./dynamic-programming/509-fibonacci-number/) | dynamic-programming | 🟢 Easy |
-| 2026-04-19 | [9. Palindrome Number](./math/9-palindrome-number/) | math | 🟢 Easy |
 
 ## All problems
 | # | Problem | Topic | Difficulty | LeetCode |
@@ -52,6 +52,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 14 | [Longest Common Prefix](./string/14-longest-common-prefix/) | string | 🟢 Easy | [link](https://leetcode.com/problems/longest-common-prefix/) |
 | 26 | [Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 27 | [Remove Element](./two-pointers/27-remove-element/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-element/) |
+| 88 | [Merge Sorted Array](./two-pointers/88-merge-sorted-array/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/merge-sorted-array/) |
 | 202 | [Happy Number](./math/202-happy-number/) | math | 🟢 Easy | [link](https://leetcode.com/problems/happy-number/) |
 | 509 | [Fibonacci Number](./dynamic-programming/509-fibonacci-number/) | dynamic-programming | 🟢 Easy | [link](https://leetcode.com/problems/fibonacci-number/) |
 
