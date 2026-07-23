@@ -5,14 +5,14 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 12 |
+| Problems solved | 13 |
 | Active days | 4 |
 | Last updated | 2026-10-02 |
 
 ## Difficulty-wise progress
 | Difficulty | Solved | Progress |
 |---|---|---|
-| 🟢 Easy | 9 / 880 | 1.0% |
+| 🟢 Easy | 10 / 880 | 1.1% |
 | 🟡 Medium | 2 / 1850 | 0.1% |
 | 🔴 Hard | 1 / 830 | 0.1% |
 
@@ -26,10 +26,12 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | dynamic-programming | 1 |
 | hashing | 1 |
 | sliding-window | 1 |
+| stack-queue | 1 |
 
 ## Recent activity
 | Date | Problem | Topic | Difficulty |
 |---|---|---|---|
+| 2026-07-23 | [20. Valid Parentheses](./stack-queue/20-valid-parentheses/) | stack-queue | 🟢 Easy |
 | 2026-07-23 | [13. Roman to Integer](./string/13-roman-to-integer/) | string | 🟢 Easy |
 | 2026-07-22 | [88. Merge Sorted Array](./two-pointers/88-merge-sorted-array/) | two-pointers | 🟢 Easy |
 | 2026-07-20 | [202. Happy Number](./math/202-happy-number/) | math | 🟢 Easy |
@@ -39,7 +41,6 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 2026-07-20 | [7. Reverse Integer](./math/7-reverse-integer/) | math | 🟡 Medium |
 | 2026-07-20 | [4. Median of Two Sorted Arrays](./binary-search/4-median-of-two-sorted-arrays/) | binary-search | 🔴 Hard |
 | 2026-07-20 | [3. Longest Substring Without Repeating Characters](./sliding-window/3-longest-substring-without-repeating-characters/) | sliding-window | 🟡 Medium |
-| 2026-07-20 | [1. Two Sum](./hashing/1-two-sum/) | hashing | 🟢 Easy |
 
 ## All problems
 | # | Problem | Topic | Difficulty | LeetCode |
@@ -51,6 +52,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 9 | [Palindrome Number](./math/9-palindrome-number/) | math | 🟢 Easy | [link](https://leetcode.com/problems/palindrome-number/) |
 | 13 | [Roman to Integer](./string/13-roman-to-integer/) | string | 🟢 Easy | [link](https://leetcode.com/problems/roman-to-integer/) |
 | 14 | [Longest Common Prefix](./string/14-longest-common-prefix/) | string | 🟢 Easy | [link](https://leetcode.com/problems/longest-common-prefix/) |
+| 20 | [Valid Parentheses](./stack-queue/20-valid-parentheses/) | stack-queue | 🟢 Easy | [link](https://leetcode.com/problems/valid-parentheses/) |
 | 26 | [Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 27 | [Remove Element](./two-pointers/27-remove-element/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-element/) |
 | 88 | [Merge Sorted Array](./two-pointers/88-merge-sorted-array/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/merge-sorted-array/) |
