@@ -5,14 +5,14 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 18 |
+| Problems solved | 19 |
 | Active days | 6 |
 | Last updated | 2026-10-02 |
 
 ## Difficulty-wise progress
 | Difficulty | Solved | Progress |
 |---|---|---|
-| 🟢 Easy | 13 / 880 | 1.5% |
+| 🟢 Easy | 14 / 880 | 1.6% |
 | 🟡 Medium | 4 / 1850 | 0.2% |
 | 🔴 Hard | 1 / 830 | 0.1% |
 
@@ -22,8 +22,8 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | two-pointers | 5 |
 | math | 3 |
 | string | 3 |
+| binary-search | 2 |
 | dynamic-programming | 2 |
-| binary-search | 1 |
 | hashing | 1 |
 | linked-list | 1 |
 | sliding-window | 1 |
@@ -32,6 +32,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Recent activity
 | Date | Problem | Topic | Difficulty |
 |---|---|---|---|
+| 2026-07-26 | [35. Search Insert Position](./binary-search/35-search-insert-position/) | binary-search | 🟢 Easy |
 | 2026-07-26 | [21. Merge Two Sorted Lists](./linked-list/21-merge-two-sorted-lists/) | linked-list | 🟢 Easy |
 | 2026-07-25 | [344. Reverse String](./two-pointers/344-reverse-string/) | two-pointers | 🟢 Easy |
 | 2026-07-25 | [75. Sort Colors](./two-pointers/75-sort-colors/) | two-pointers | 🟡 Medium |
@@ -41,7 +42,6 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 2026-07-23 | [13. Roman to Integer](./string/13-roman-to-integer/) | string | 🟢 Easy |
 | 2026-07-22 | [88. Merge Sorted Array](./two-pointers/88-merge-sorted-array/) | two-pointers | 🟢 Easy |
 | 2026-07-20 | [202. Happy Number](./math/202-happy-number/) | math | 🟢 Easy |
-| 2026-07-20 | [27. Remove Element](./two-pointers/27-remove-element/) | two-pointers | 🟢 Easy |
 
 ## All problems
 | # | Problem | Topic | Difficulty | LeetCode |
@@ -58,6 +58,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 26 | [Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 27 | [Remove Element](./two-pointers/27-remove-element/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-element/) |
 | 28 | [Find the Index of the First Occurrence in a String](./string/28-find-the-index-of-the-first-occurrence-in-a-string/) | string | 🟢 Easy | [link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+| 35 | [Search Insert Position](./binary-search/35-search-insert-position/) | binary-search | 🟢 Easy | [link](https://leetcode.com/problems/search-insert-position/) |
 | 53 | [Maximum Subarray](./dynamic-programming/53-maximum-subarray/) | dynamic-programming | 🟡 Medium | [link](https://leetcode.com/problems/maximum-subarray/) |
 | 75 | [Sort Colors](./two-pointers/75-sort-colors/) | two-pointers | 🟡 Medium | [link](https://leetcode.com/problems/sort-colors/) |
 | 88 | [Merge Sorted Array](./two-pointers/88-merge-sorted-array/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/merge-sorted-array/) |
