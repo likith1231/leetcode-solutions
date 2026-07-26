@@ -5,14 +5,14 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 ## Progress
 | Metric | Value |
 |---|---|
-| Problems solved | 17 |
-| Active days | 5 |
+| Problems solved | 18 |
+| Active days | 6 |
 | Last updated | 2026-10-02 |
 
 ## Difficulty-wise progress
 | Difficulty | Solved | Progress |
 |---|---|---|
-| 🟢 Easy | 12 / 880 | 1.4% |
+| 🟢 Easy | 13 / 880 | 1.5% |
 | 🟡 Medium | 4 / 1850 | 0.2% |
 | 🔴 Hard | 1 / 830 | 0.1% |
 
@@ -25,12 +25,14 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | dynamic-programming | 2 |
 | binary-search | 1 |
 | hashing | 1 |
+| linked-list | 1 |
 | sliding-window | 1 |
 | stack-queue | 1 |
 
 ## Recent activity
 | Date | Problem | Topic | Difficulty |
 |---|---|---|---|
+| 2026-07-26 | [21. Merge Two Sorted Lists](./linked-list/21-merge-two-sorted-lists/) | linked-list | 🟢 Easy |
 | 2026-07-25 | [344. Reverse String](./two-pointers/344-reverse-string/) | two-pointers | 🟢 Easy |
 | 2026-07-25 | [75. Sort Colors](./two-pointers/75-sort-colors/) | two-pointers | 🟡 Medium |
 | 2026-07-25 | [53. Maximum Subarray](./dynamic-programming/53-maximum-subarray/) | dynamic-programming | 🟡 Medium |
@@ -40,7 +42,6 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 2026-07-22 | [88. Merge Sorted Array](./two-pointers/88-merge-sorted-array/) | two-pointers | 🟢 Easy |
 | 2026-07-20 | [202. Happy Number](./math/202-happy-number/) | math | 🟢 Easy |
 | 2026-07-20 | [27. Remove Element](./two-pointers/27-remove-element/) | two-pointers | 🟢 Easy |
-| 2026-07-20 | [26. Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy |
 
 ## All problems
 | # | Problem | Topic | Difficulty | LeetCode |
@@ -53,6 +54,7 @@ My accepted LeetCode solutions in Java, organized by topic, with the approach an
 | 13 | [Roman to Integer](./string/13-roman-to-integer/) | string | 🟢 Easy | [link](https://leetcode.com/problems/roman-to-integer/) |
 | 14 | [Longest Common Prefix](./string/14-longest-common-prefix/) | string | 🟢 Easy | [link](https://leetcode.com/problems/longest-common-prefix/) |
 | 20 | [Valid Parentheses](./stack-queue/20-valid-parentheses/) | stack-queue | 🟢 Easy | [link](https://leetcode.com/problems/valid-parentheses/) |
+| 21 | [Merge Two Sorted Lists](./linked-list/21-merge-two-sorted-lists/) | linked-list | 🟢 Easy | [link](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 26 | [Remove Duplicates from Sorted Array](./two-pointers/26-remove-duplicates-from-sorted-array/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 27 | [Remove Element](./two-pointers/27-remove-element/) | two-pointers | 🟢 Easy | [link](https://leetcode.com/problems/remove-element/) |
 | 28 | [Find the Index of the First Occurrence in a String](./string/28-find-the-index-of-the-first-occurrence-in-a-string/) | string | 🟢 Easy | [link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
